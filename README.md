@@ -3,7 +3,8 @@
 
 <a href="https://jtf.im/">
   <img width="207px" alt="A" src="https://img.shields.io/static/v1?label=blog&message=https://jtf.im/.&color=rgb(235,198,90)&style=for-the-badge" />
-</a：
+</a>
+
 <a href="https://twitter.com/jiangtianfang">
   <img alt="A" src="https://img.shields.io/static/v1?logo=twitter&logoColor=rgb(255,255,255)&label=&message=twitter&color=rgb(29,161,242)&style=for-the-badge" />
 </a>
