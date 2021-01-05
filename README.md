@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://www.jtf.im">
+<a width=102 href="https://www.jtf.im">
   <img width="207px" alt="A" src="https://img.shields.io/static/v1?label=blog&message=jtf.imp&color=rgb(235,198,90)&style=for-the-badge" />
 </a>
 <a width=102 href="https://codepen.io/randomyang">
