@@ -2,7 +2,7 @@
 
 
 <a href="https://jtf.im/">
-  <img width="207px" alt="A" src="https://img.shields.io/static/v1?label=blog&message= www.jtf.im &color=rgb(235,198,90)&style=for-the-badge" />
+  <img width="207px" alt="A" src="https://img.shields.io/static/v1?label=blog&message=https://jtf.im/&color=rgb(235,198,90)&style=for-the-badge" />
 </a>
 <a width=102 href="https://codepen.io/randomyang">
   <img alt="A" src="https://img.shields.io/static/v1?logo=codepen&logoColor=rgb(255,255,255)&label=&message=codepen&color=rgb(0,0,0)&style=for-the-badge" />
